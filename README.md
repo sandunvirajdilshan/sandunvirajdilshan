@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sandun Viraj Dilshan
-- 👀 I’m interested in Cyber Secrity | Ethical Hacking | Web Design..,
+- 👀 I’m interested in Cyber Secrity | Ethical Hacking | Web Development..,
 - 🌱 I’m currently learning FullStack Development
 - 📫 https://bio.link/sandunvirajdilshan
