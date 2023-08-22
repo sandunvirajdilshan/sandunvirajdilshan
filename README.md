@@ -2,7 +2,6 @@
 
 - 🕵️‍♂️🔒 Cyber Security Enthusiast
 - 👨‍💻⚙️ Backend Developer
-- https://linux.org
 
 Welcome to my GitHub profile! I'm passionate about both cyber security and backend development. Here's a bit about me:
 
