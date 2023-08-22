@@ -1,7 +1,7 @@
 # Hello, I'm [Sandun] 👋
 
-- 👨‍💻Cyber Security Enthusiast |
-Backend Developer
+- 🕵️‍♂️🔒 Cyber Security Enthusiast |
+- 👨‍💻⚙️ Backend Developer
 
 Welcome to my GitHub profile! I'm passionate about both cyber security and backend development. Here's a bit about me:
 
