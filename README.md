@@ -2,6 +2,7 @@
 
 - 🕵️‍♂️🔒 Cyber Security Enthusiast
 - 👨‍💻⚙️ Backend Developer
+- https://linux.org
 
 Welcome to my GitHub profile! I'm passionate about both cyber security and backend development. Here's a bit about me:
 
@@ -11,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about both cyber security and backe
 
 ## Technologies and Tools
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
