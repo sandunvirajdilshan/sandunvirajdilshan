@@ -1,7 +1,7 @@
 # Hello, I'm [Sandun] 👋
 
-![Cyber Security Icon](https://img.icons8.com/color/48/000000/hacker-mind.png) Cyber Security Enthusiast
-![Backend Developer Icon](https://img.icons8.com/color/48/000000/code.png) Backend Developer
+- 👨‍💻Cyber Security Enthusiast |
+Backend Developer
 
 Welcome to my GitHub profile! I'm passionate about both cyber security and backend development. Here's a bit about me:
 
