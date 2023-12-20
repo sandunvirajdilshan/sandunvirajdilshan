@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about both cyber security and backe
 
 - 🔭 I’m currently working on enhancing my backend development skills.
 - 🌱 I’m always learning and exploring new concepts in the world of cyber security.
-- 💬 Ask me about anything related to backend development and cyber security!
+
 
 ## Technologies and Tools
 ### Programming Languages
