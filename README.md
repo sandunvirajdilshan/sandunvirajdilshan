@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Location-Ratnapura%2C%20Sri%20Lanka-0A66C2?style=flat-square&logo=googlemaps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Location-Sri%20Lanka-0A66C2?style=flat-square&logo=googlemaps&logoColor=white"/>
     <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Backend%20%7C%20DevOps-6E40C9?style=flat-square"/>
   </p>
 
