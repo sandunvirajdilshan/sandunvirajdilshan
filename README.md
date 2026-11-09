@@ -2,32 +2,35 @@
   
   <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Sandun%20Viraj%20Dilshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20•%20Backend%20•%20Systems&descAlignY=55&descSize=18" width="100%"/>
-
+  
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Backend+%26+Systems+Tinkerer;Always+Curious+%26+Learning;Building.+Breaking.+Learning." alt="Typing SVG" />
   </a>
-
+  
   <br><br>
-
+  
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sandunvirajdilshan&label=Profile%20views&color=0A66C2&style=for-the-badge" alt="Profile views"/>
+  </p>
+  
   <!-- Short Bio -->
   <p>
     Hey there 👋 I'm <strong>Sandun</strong> from Sri Lanka 🇱🇰<br>
     Passionate about cybersecurity, backend systems, and making things work (and then making them better).<br>
     I love diving deep into how systems talk, how attacks unfold, and how clean code + solid infrastructure create real impact.
   </p>
-
+  
   <p>
     <img src="https://img.shields.io/badge/Location-Sri%20Lanka-0A66C2?style=flat-square&logo=googlemaps&logoColor=white"/>
     <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Backend%20%7C%20DevOps-6E40C9?style=flat-square"/>
   </p>
-
 </div>
 
 ---
 
 ### 🧠 About Me
-
 - 🔭 Currently exploring advanced threat detection, detection engineering, and secure backend systems  
 - 🌱 Deep diving into SIEM/EDR concepts, cloud security, and modern infrastructure  
 - 💡 Love building real-time systems, automating workflows, and understanding the “why” behind every log  
@@ -103,12 +106,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandunvirajdilshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandunvirajdilshan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sandunvirajdilshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sandunvirajdilshan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunvirajdilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sandunvirajdilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -116,13 +119,11 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-
-  [![Website](https://img.shields.io/badge/Website-sandunvirajdilshan-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandunvirajdilshan)
+  [![Website](https://img.shields.io/badge/Website-sandunvirajdilshan-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandunvirajdilshan.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandunvirajdilshan/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunvirajdilshan)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunvirajdilshan)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sandunvirajdilshan)
-
 </div>
 
 <br>
