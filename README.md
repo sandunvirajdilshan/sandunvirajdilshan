@@ -119,11 +119,21 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-  [![Website](https://img.shields.io/badge/Website-sandunvirajdilshan-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandunvirajdilshan.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandunvirajdilshan/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunvirajdilshan)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunvirajdilshan)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sandunvirajdilshan)
+  <a href="https://sandunvirajdilshan.github.io">
+    <img src="https://img.shields.io/badge/Website-sandunvirajdilshan-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sandunvirajdilshan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sandunvirajdilshan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/sandunvirajdilshan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/sandunvirajdilshan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </div>
 
 <br>
